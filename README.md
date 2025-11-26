@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahul0185/leetcodings/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul0185/leetcodings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rahul0185/leetcodings/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/rahul0185/leetcodings/tree/master/0151-reverse-words-in-a-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahul0185/leetcodings/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul0185/leetcodings/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahul0185/leetcodings/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/rahul0185/leetcodings/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rahul0185/leetcodings/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/rahul0185/leetcodings/tree/master/0151-reverse-words-in-a-string) |
