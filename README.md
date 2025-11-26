@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rahul0185/leetcodings/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rahul0185/leetcodings/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/rahul0185/leetcodings/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/rahul0185/leetcodings/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rahul0185/leetcodings/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/rahul0185/leetcodings/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rahul0185/leetcodings/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rahul0185/leetcodings/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
