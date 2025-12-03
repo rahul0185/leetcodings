@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rahul0185/leetcodings/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rahul0185/leetcodings/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rahul0185/leetcodings/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rahul0185/leetcodings/tree/master/0503-next-greater-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rahul0185/leetcodings/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rahul0185/leetcodings/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rahul0185/leetcodings/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/rahul0185/leetcodings/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rahul0185/leetcodings/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/rahul0185/leetcodings/tree/master/1078-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rahul0185/leetcodings/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -135,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rahul0185/leetcodings/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rahul0185/leetcodings/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
