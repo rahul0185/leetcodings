@@ -9,18 +9,38 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+
+   class Solution {
 public:
-void help(TreeNode* root, vector<int>& ans){
-        if(root == NULL) return ;
-        
-        help(root->left, ans);
-        help(root->right, ans);
-        ans.push_back(root->val);
-}
     vector<int> postorderTraversal(TreeNode* root) {
-     vector<int> ans;
-     help(root,ans);
-     return ans;   
+        vector<int> ans;
+        stack<TreeNode*> st;
+        TreeNode* curr = root;
+        TreeNode* lastVisited = nullptr;
+
+        while (curr != nullptr || !st.empty()) {
+
+            // Step 1: Go as left as possible
+            if (curr != nullptr) {
+                st.push(curr);
+                curr = curr->left;
+            }
+            else {
+                TreeNode* topNode = st.top();
+
+                // Step 2: If right child exists and not yet processed, go right
+                if (topNode->right != nullptr && lastVisited != topNode->right) {
+                    curr = topNode->right;
+                }
+                else {
+                    // Step 3: Visit the node
+                    ans.push_back(topNode->val);
+                    lastVisited = topNode;
+                    st.pop();
+                }
+            }
+        }
+
+        return ans;
     }
 };
